@@ -3,7 +3,7 @@ var fs = require("fs")
 var discord = require("discord.js")
 
 const bot = new dbd.Bot({
-token: "ODUwMjI0NTY2Mjg1NTAwNDM2.YLmnVQ.AtgKjMOi4rXYwVskZPWgwAQ-NGA",
+token: "d",
 prefix: "$getServerVar[prefix]"
 })
  
